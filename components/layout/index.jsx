@@ -1,7 +1,7 @@
 import Header from "../header";
 import Footer from "../footer";
 import PropTypes from "prop-types";
-import styles from "./Layout.module.css";
+import styles from "./layout.module.css";
 import Head from "next/head";
 
 export default function Layout({ children }) {
